@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[var _ = require('underscore');
+    <content><![CDATA[const _ = require('underscore');
 
 ]]></content>
 <tabTrigger>ru</tabTrigger>

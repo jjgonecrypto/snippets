@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[var Backbone = require('backbone');
+    <content><![CDATA[const Backbone = require('backbone');
 
 ]]></content>
 <tabTrigger>rbb</tabTrigger>

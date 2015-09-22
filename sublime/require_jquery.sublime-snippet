@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[var \$ = require('jquery');
+    <content><![CDATA[const \$ = require('jquery');
 
 ]]></content>
 <tabTrigger>rj</tabTrigger>
